@@ -88,7 +88,7 @@ WheelSS_ICs = [w_0, 0, w_0, 0];
 
 %% Run simulation
 
-sim('Model_v13.slx');
+sim('Model_v14.slx');
  
 
 
